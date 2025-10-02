@@ -1,0 +1,10 @@
+name: VansHide
+main: me.yourname.vanshide.VansHide
+version: 1.0.0
+api-version: 1.16
+permissions:
+  vanshide.bypass:
+    description: Allows player to bypass VansHide isolation
+    default: op
+
+
