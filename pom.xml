@@ -31,7 +31,7 @@
     </build>
 
     <dependencies>
-        <!-- Используем Spigot API — он совместим с Purpur -->
+        <!-- Используем официальный Spigot API -->
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
